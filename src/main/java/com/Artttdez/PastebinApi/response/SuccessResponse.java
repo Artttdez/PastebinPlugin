@@ -1,9 +1,15 @@
 package com.Artttdez.PastebinApi.response;
 
-public class SuccessResponse implements Response{
-    public SuccessResponse(String s) {
+import org.jetbrains.annotations.NotNull;
 
+public class SuccessResponse implements Response {
+    @NotNull
+    private final String payload;
+
+    public SuccessResponse(@NotNull String payload) {
+        this.payload = payload;
     }
+
     @Override
     public boolean isError() {
         return false;
@@ -11,6 +17,6 @@ public class SuccessResponse implements Response{
 
     @Override
     public String get() {
-        return null;
+        return payload;
     }
 }

@@ -1,16 +1,22 @@
 package com.Artttdez.PastebinApi.response;
+import org.jetbrains.annotations.NotNull;
 
 public class FailedResponse implements Response{
-    public FailedResponse(String s) {
+    @NotNull
+    private final String payload;
 
+    public FailedResponse(@NotNull String payload) {
+        this.payload = payload;
     }
+
     @Override
     public boolean isError() {
-        return false;
+        return true;
     }
 
     @Override
     public String get() {
-        return null;
+        return payload;
     }
 }
+
