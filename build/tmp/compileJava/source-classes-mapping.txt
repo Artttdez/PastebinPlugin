@@ -1,6 +1,0 @@
-com/Artttdez/pastebinsender/storage/SettingState.java
- com.Artttdez.pastebinsender.storage.SettingState
-com/Artttdez/pastebinsender/gui/SettingsGui.java
- com.Artttdez.pastebinsender.gui.SettingsGui
-pasteAction.java
- pasteAction
