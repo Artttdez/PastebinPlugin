@@ -1,0 +1,12 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+  </applied-converters>
+  <project-files>
+    <f p="./.idea/modules.xml" t="1622498886" />
+    <f p="./.idea/misc.xml" t="1622498886" />
+    <f p="./untitled2.iml" t="1622498886" />
+    <f p="./.idea/workspace.xml" t="1622499092" />
+  </project-files>
+</conversion>
