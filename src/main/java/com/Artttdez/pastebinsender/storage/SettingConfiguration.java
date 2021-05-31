@@ -1,6 +1,6 @@
 package com.Artttdez.pastebinsender.storage;
 
-
+/*
 import com.Artttdez.pastebinsender.gui.SettingsGui;
 import com.intellij.openapi.options.Configurable;
 import org.jetbrains.annotations.Nls;
@@ -10,7 +10,7 @@ import javax.swing.*;
 
 public class SettingConfiguration implements Configurable {
 
-    private SettingsGui component;
+   /* private SettingsGui component;
 
     @Override
     @Nls(capitalization = Nls.Capitalization.Title)
@@ -60,5 +60,7 @@ public class SettingConfiguration implements Configurable {
     public void disposeUIResources() {
         component = null;
     }
+ */
 
 }
+*/

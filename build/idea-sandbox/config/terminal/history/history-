@@ -1,0 +1,499 @@
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/artemijkarpov/VSCodeProjects/Lab1/tests.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/artemijkarpov/VSCodeProjects/Lab1/lab1Program.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/artemijkarpov/VSCodeProjects/Lab1/lab1Program.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/artemijkarpov/VSCodeProjects/Lab1/tests.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/artemijkarpov/VSCodeProjects/Lab1/lab1Program.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/artemijkarpov/VSCodeProjects/Lab1/tests.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/artemijkarpov/VSCodeProjects/Lab1/tests.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/artemijkarpov/VSCodeProjects/Lab1/tests.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/artemijkarpov/VSCodeProjects/Lab1/lab1Program.py
+3 + 4
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/artemijkarpov/VSCodeProjects/Lab1/lab1Program.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/artemijkarpov/VSCodeProjects/Lab1/lab1Program.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/artemijkarpov/VSCodeProjects/Lab1/tests.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/artemijkarpov/VSCodeProjects/Lab1/lab1Program.py
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python /Users/artemijkarpov/VSCodeProjects/Lab1/lab1Program.py
+pip install py3
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1Program.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1Program.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1Program.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1Program.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1Program.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1Program.py
+code -h
+code -h
+code -h
+code -h
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1Program.py
+code -h
+code -d –diff <file> <file>
+code -d –diff lab1.py tests.py 
+code -d –diff lab1.py tests.py
+code -d –-diff lab1.py tests.py
+code -d lab1.py tests.py
+code -d Lab1/lab1.py Lab1/tests.py
+code -d Lab1/lab1.py Lab1/lab1Program.py
+code -g --goto <Lab1/lab1.py:3[:15]>
+code -g --goto <Lab1/lab1.py:3:15>
+code -g --goto Lab1/lab1.py:3:15
+code -a --add Lab1
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+3 + 2
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1Program.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/tests.py
+code -a add Lab1/file.py
+code -a add Lab1/file
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+code -a add new.py
+code -a --add new.py
+code --list-versions
+code --list-extensions
+code --show-versions 
+code -v --version
+code --show-versions --show-versions
+code --list-extensions --show-versions
+code -s --status
+code --max-memory
+code --max-memory
+code --max-memory
+code --telemetry
+code -r
+code --list-extensions
+code --uninstall-extension ms-toolsai.jupiter
+code --uninstall-extension ms-toolsai.jupyter
+code --disable-extension ms-toolsai.jupyter
+code --list-extensions
+code --disable-extensions
+code --list-extensions
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/lab1Program.py
+code --list-extensions
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/Lab1/tests.py
+git clone https://github.com/itmo-java-basics-2021/Artttdez
+git clone https://github.com/itmo-java-basics-2021/Artttdez
+git clone https://github.com/itmo-java-basics-2021/Artttdez
+git clone https://github.com/itmo-java-basics-2021/Artttdez
+git clone https://github.com/itmo-java-basics-2021/Artttdez
+git clone https://github.com/itmo-java-basics-2021/Artttdez
+git clone https://github.com/itmo-java-basics-2021/Artttdez
+git clone https://github.com/itmo-java-basics-2021/Artttdez
+git
+git
+$ sudo dnf install git-all
+$ git --version
+git --version
+git --version
+git --version
+brew install git
+brew install git
+git
+git
+git
+sudo xcode-select --reset
+git
+xcode-select --install
+sudo xcode-select -s /Library/Developer/CommandLineTools
+git
+git status
+git
+pwd
+mkdir LABA1
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/PriMat/Dichotomy.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/PriMat/Dichotomy.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/PriMat/Dichotomy.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/PriMat/Dichotomy.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/PriMat/Dichotomy.py
+/usr/local/bin/python3 /Users/artemijkarpov/Downloads/parabol.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/PriMat/Dichotomy.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/PriMat/Dichotomy.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/PriMat/Dichotomy.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/PriMat/Dichotomy.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/PriMat/Dichotomy.py
+/usr/local/bin/python3 /Users/artemijkarpov/VSCodeProjects/PriMat/Dichotomy.py
+/usr/local/bin/python3 /Users/artemijkarpov/Downloads/parabol.py
+/usr/local/bin/python3 /Users/artemijkarpov/Downloads/parabol.py
+/usr/local/bin/python3 /Users/artemijkarpov/Downloads/parabol.py
+gco
+git
+git ammend
+git amend
+git init https://github.com/Artttdez/arttt_dez.git
+git init
+$ brew install git-flow-avh
+brew install git-flow-avh
+gitflow
+git flow
+brew install git-flow-avh
+brew install git-flow-avh
+brew install git-flow-avh
+sudo chown -R $(whoami) /usr/local/share/man/man3 /usr/local/share/man/man5 /usr/local/share/man/man7
+brew install git-flow-avh
+sudo brew install git-flow-avh
+brew install git-flow-avh
+git flow
+cd RiderProjects/
+cd ProjectISPO/
+git init
+cd ..
+cd..
+cd ..
+ls
+cd RiderProjects/
+cd Test/
+git init
+git flow init
+git remote add origin https://github.com/KArsen146/ISPO2.git
+git remote -v
+git push --all
+git pull --all
+git push --all
+git push origin --all
+cd ..
+cd ..
+cd RiderProjects/
+cd ProjectISPO/
+git init
+git flow init
+git branch
+git remote add origin https://github.com/KArsen146/ISPO2.git
+git remote -v
+git push origin -all
+y
+git push origin --all
+git pull *
+git pull --all
+git push origin --all
+git push upstream upstreammaster:master
+git push upstream upstreammaster:master origin --all
+git push origin --all master
+git pull upstream upstreammaster:master
+git pull https://github.com/KArsen146/ISPO2.git master
+git push -u origin master
+git push --all
+git push upstream upstreammaster:master
+git pull
+git clone https://github.com/KArsen146/ISPO2
+git flow init
+git flow feature start Tracks
+git flow init -f
+git flow feature start Tracks
+cd ..
+cd ..
+cd RiderProjects/
+cd ProjectISPO2/
+cd ..
+cd ..
+cd RiderProjects/
+git clone https://github.com/KArsen146/ISPO2.git
+git checkout master
+git flow init
+git flow init -f
+git flow
+git flow feature start Tracks
+git add
+git add .
+git add *
+ls
+cd ISPO2/
+git add *
+git commit
+git commit
+ls
+cd RiderProjects/
+ls
+cd ISPO2/
+push commit -m "Tracks hierarchy"
+git push commit -m "Tracks hierarchy"
+git push commit -m "Tracks hierarchy"
+git commit -m "Tracks hierarchy"
+git flow feature publish Trash
+git flow init
+git flow init
+git flow init
+cd RiderProjects/
+cd ISPO2/
+git flow init
+git flow init
+git branch
+git flow init
+git flow init -f
+git branch --help
+git branch -d n
+git checkout develop
+cd ..
+mkdir ISPO-2
+cd ISPO-2/
+git clone {
+    public class SpeedWay : AbstractTrack
+    {         protected SpeedWay(long distance)
+        {             Distance = distance;             Resistance = -3.0;         }
+    }
+git clone https://github.com/KArsen146/ISPO2
+ls
+cd ISPO2/
+git init
+git flow init
+cd ..
+rmdir ISPO-2
+rm ISPO-2
+ls
+cd  ..
+rm ISPO-2
+rmDIR ISPO-2
+mkdir ISPO_2
+cd ISPO_2
+git clone https://github.com/KArsen146/ISPO2
+cd ISPO2/
+git checkout master
+git flow init
+git init
+ls
+ls -a
+git pull
+ls
+cd ..
+;s
+ls
+cd ISPO2
+ls
+git checkout develop
+ls
+cd ..
+cd ..
+cd ISPO
+cd ISPO/
+ls
+ls
+cd ISPO/
+git flow init
+git clone https://github.com/KArsen146/ISPO.git
+git flow init
+git flow init
+git add *
+cd ..
+cd ..
+cd RiderProjects/
+cd Project/
+nano 1.txt
+git init
+git flow init
+git branch
+git remote add origin https://github.com/Artttdez/ProjectISPO.git
+git remote -v
+git push origin --all
+git flow feature start editText
+git branch
+nano text
+ls
+nano 1.txt
+git status
+git add 1.txt
+git commit -m "Edit text"
+git log
+git branch
+git flow feature finish editText
+git push origin --all
+git lfs install
+brew install git-lfs
+git flow feature start addlfs
+git pull
+git ranch
+git branch
+git pull
+git checkout master
+git pull
+git checkout develop
+git flow feature start addlfs
+git pull
+git pull develop
+it branch --set-upstream-to=origin/<branch> develop
+it branch --set-upstream-to=origin develop
+git branch --set-upstream-to=origin develop
+git pull
+ git branch --set-upstream-to=origin/<branch> develop
+git branch
+git pull
+git status
+git flow feature start UsingLFS
+git checkout develop && git pull origin
+git checkout develop && git pull origin develop
+git flow feature start UsingLFS
+git lfs track largeFile.dmg
+git add .gitattributes
+git add largeFile.dmg
+git commit -m "largeFile.dmg downlouading speed increasing"
+git branch
+git flow feature publish UsingLFS
+git flow feature finish UsingLFS
+git checkout develop && git pull origin develop
+git flow feature finish UsingLFS
+git flow release start v0.1
+git flow release publish
+git commit -m "Release"
+git commit -m "Release"
+git commit -m "Release"
+git flow release finish v0.1
+git flow release finish v0.1
+git flow release finish v0.1
+git config --global core.editor nano
+git config --list
+git flow release finish v0.1
+git tag
+git push --tags
+git branch
+git checkout master
+ls
+git push
+git push --set-upstream origin master
+git pull --prune --tags
+git pull --prune --tags
+git pull --prune --tags
+git tag
+git pull --prune --tags
+git pull --prune --tags
+git pull --tags
+/Volumes/Adobe\ Photoshop\ CC\ 2019\ v20.0.7/Extra/Install.app/Contents/MacOS/Install ; exit;
+pip install numpy
+pip install sympy
+/Volumes/Adobe\ Photoshop\ CC\ 2019\ v20.0.7/Extra/Install.app/Contents/MacOS/Install ; exit;
+/Volumes/Adobe\ Photoshop\ CC\ 2019\ v20.0.7/Extra/Install.app/Contents/MacOS/Install ; exit;
+/Volumes/Adobe\ Photoshop\ CC\ 2019\ v20.0.7/Extra/Install.app/Contents/MacOS/Install ; exit;
+/Volumes/Adobe\ Photoshop\ CC\ 2019\ v20.0.7/Extra/Install.app/Contents/MacOS/Install ; exit;
+/Volumes/Adobe\ Photoshop\ CC\ 2019\ v20.0.7/Extra/Install.app/Contents/MacOS/Install ; exit;
+git init
+git remote add origin https://github.com/JES-IT-consulting/SiteGram.git
+git remote -v
+git pull
+git status
+git log
+git pull
+git pull origin master
+git log
+lsof -i:8080
+lsof -i:8080
+lsof -i:8080
+ping 85.26.232.2
+git pull
+git pull
+/var/www/JesitYashmaDomainRedirect/JesitYashmaDomainRedirect/wwwroot
+cd /var/www/JesitYashmaDomainRedirect/JesitYashmaDomainRedirect/wwwroot
+cd /var/www/JesitYashmaDomainRedirect/JesitYashmaDomainRedirect/wwwrootcd /var/www/JesitYashmaDomainRedirect/JesitYashmaDomainRedirect/wwwroot
+cd /var/www/JesitYashmaDomainRedirect/JesitYashmaDomainRedirect/wwwroot
+ssh root@83.136.232.111
+git add *
+git commit -m "Requests refactoring"
+git push
+git add *
+git commit -m "Deploy fix#1"
+git add *
+git commit -m "Request refactoring"
+git push
+git add *
+git commit -m "Request refactoring #2"
+git push
+git add *
+git commit -m "Deploy fix#2"
+git push
+npm run serve
+ssh root@83.136.232.111
+ssh root@83.136.232.111
+sssh root@83.136.232.111
+ssh root@83.136.232.111
+git log
+git rebase
+git remote
+git checkout master
+git log
+git add *
+git checkout master -f
+git pull
+git pull lab2Base master
+git commit -m "resolved conflicts"
+git add *
+git commit -m "resolved conflicts"
+git push
+git pull lab2Base master
+git branch lab3
+git checkout lab3
+git add *
+git commit -m "RESP realisation"
+git branch lab3
+git checkout lab3
+git push
+git push --set-upstream origin lab3
+git add *
+git commit -m "Command realisation"
+git push
+git add *
+git commit -m "Edit Resp"
+git push
+git add *
+git commit -m "Edit Resp2"
+git push
+git add *
+git commit -m "Client realisation"
+git push
+git add *
+git commit -m "Segment name fix"
+git push
+git add *
+git commit -m "Error throwing fix"
+git push
+git add *
+git commit -m "Error throwing fix #2"
+git push
+git add *
+git commit -m "Error throwing fix #3"
+git push
+git add *
+git commit -m "Error throwing fix #3"
+git push
+git add *
+git commit -m "Error throwing fix #5"
+git push
+git add *
+git commit -m "Resp write fix #1"
+git push
+ssh root@83.136.232.111
+ssh root@83.136.232.111
+ssh root@83.136.232.111
+ssh root@83.136.232.111
+ssh root@83.136.232.111
+ssh root@83.136.232.111
+ssh root@83.136.232.111
+ssh root@83.136.232.111
+ssh root@83.136.232.111
+ssh root@83.136.232.111
+ssh root@83.136.232.111
+1U2NUWmKDxM4
+ssh root@83.136.232.111
+ssh root@83.136.232.111
+ssh root@83.136.232.111
+ssh root@83.136.232.111
