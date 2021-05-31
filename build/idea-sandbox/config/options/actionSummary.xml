@@ -1,5 +1,8 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="Back">
+      <i c="1" l="1622489435858" />
+    </e>
     <e n="EditorBackSpace">
       <i c="11" l="1622487099753" />
     </e>
@@ -16,10 +19,13 @@
       <i c="1" l="1622487059099" />
     </e>
     <e n="ParameterInfo">
-      <i c="6" l="1622487098171" />
+      <i c="10" l="1622489441637" />
     </e>
     <e n="WelcomeScreen.CreateNewProject">
       <i c="1" l="1622487016079" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="1" l="1622489387206" />
     </e>
   </component>
 </application>

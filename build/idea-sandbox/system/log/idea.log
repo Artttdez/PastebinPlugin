@@ -2362,3 +2362,6 @@ Example: args.urlSchemes = ["your-protocol"] will handle following links: your-p
 2021-05-31 22:30:22,999 [  68335]  ERROR - jediterm.terminal.TerminalMode - Mode EightBitInput is not implemented, setting to true 
 2021-05-31 22:30:28,838 [  74174]   INFO - rationStore.ComponentStoreImpl - Saving appFileTypeManager took 13 ms 
 2021-05-31 22:30:29,346 [  74682]   INFO - rationStore.ComponentStoreImpl - Saving Project(name=untitled2, containerState=COMPONENT_CREATED, componentStore=/Users/artemijkarpov/IdeaProjects/untitled2)ProjectStartupSharedConfiguration took 21 ms, RunManager took 327 ms 
+2021-05-31 22:37:17,457 [ 482793]   INFO - rationStore.ComponentStoreImpl - Saving appFileTypeManager took 14 ms, FindSettings took 24 ms, NotRoamableUiSettings took 11 ms, TodoConfiguration took 11 ms 
+2021-05-31 22:37:17,820 [ 483156]   INFO - rationStore.ComponentStoreImpl - Saving Project(name=untitled2, containerState=COMPONENT_CREATED, componentStore=/Users/artemijkarpov/IdeaProjects/untitled2)KotlinCommonCompilerArguments took 32 ms, ProjectView took 16 ms, RunDashboard took 31 ms, Vcs.Log.Tabs.Properties took 11 ms, XDebuggerManager took 46 ms 
+2021-05-31 22:37:38,990 [ 504326]   INFO - rationStore.ComponentStoreImpl - Saving appDebuggerSettings took 22 ms, FileTypeManager took 30 ms 

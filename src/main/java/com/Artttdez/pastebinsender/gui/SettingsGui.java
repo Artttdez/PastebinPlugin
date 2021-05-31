@@ -1,13 +1,16 @@
 package com.Artttdez.pastebinsender.gui;
 
-import javax.swing.JComboBox;
-import javax.swing.JPanel;
+import javax.swing.*;
 
 public class SettingsGui {
 
-    private JComboBox comboBox1;
     private JPanel panel;
+    private JTextField textField1;
 
     private void checkJLabel() {
+    }
+
+    private void createUIComponents() {
+        // TODO: place custom component creation code here
     }
 }
