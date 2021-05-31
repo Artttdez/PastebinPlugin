@@ -11,9 +11,10 @@
     </layout>
   </component>
   <component name="WindowStateApplicationService">
-    <state x="720" y="408" key="WELCOME_SCREEN" timestamp="1622487104338">
-      <screen x="0" y="25" width="1440" height="809" />
+    <state x="720" y="402" key="WELCOME_SCREEN" timestamp="1622492053147">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
+    <state x="720" y="402" key="WELCOME_SCREEN/0.23.1440.804" timestamp="1622492053147" />
     <state x="720" y="408" key="WELCOME_SCREEN/0.25.1440.809" timestamp="1622487104338" />
     <state x="319" y="28" width="802" height="761" key="new project wizard" timestamp="1622487024551">
       <screen x="0" y="25" width="1440" height="809" />
