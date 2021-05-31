@@ -3,8 +3,8 @@
     <jdk version="2">
       <name value="14" />
       <type value="JavaSDK" />
-      <version value="version 14" />
-      <homePath value="/Library/Java/JavaVirtualMachines/jdk-14.jdk/Contents/Home" />
+      <version value="java version &quot;14.0.2&quot;" />
+      <homePath value="$USER_HOME$/Library/Java/JavaVirtualMachines/adopt-openjdk-14.0.2/Contents/Home" />
       <roots>
         <annotationsPath>
           <root type="composite">
