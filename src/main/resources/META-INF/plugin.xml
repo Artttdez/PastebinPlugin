@@ -1,11 +1,10 @@
 <idea-plugin>
     <id>org.example.PastebinSender</id>
-    <name>Plugin display name here</name>
-    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+    <name>Pastebin Sender</name>
+    <vendor email="karsen146@gmail.com" url="https://artttdesign.ru/">KArsArt</vendor>
 
     <description><![CDATA[
-    Enter short description for your plugin here.<br>
-    <em>most HTML tags may be used</em>
+    You can use this plugin to send pieces of your code to Pastebin.com in a few clicks!
     ]]></description>
 
     <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
@@ -13,9 +12,14 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <!-- Add your extensions here -->
+        <applicationService
+                serviceImplementation="com.Artttdez.pastebinsender.storage.SettingState"/>
+        <applicationConfigurable
+                groupId="tools"
+                displayName="Pastebin Sender Settings"
+                id="preferences.SettingConfiguration"
+                instance="com.Artttdez.pastebinsender.storage.SettingConfiguration"/>
     </extensions>
-
     <actions>
         <!-- Add your actions here -->
         <action id="pasteAction" class="pasteAction" text="Paste Action" description="Paste a selection to pastebin">

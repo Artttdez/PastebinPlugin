@@ -1,0 +1,23 @@
+<idea-plugin>
+  <version>1.0-SNAPSHOT</version>
+  <change-notes>
+      Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <idea-version since-build="203.7717" until-build="203.*"/>
+  <id>org.example.PastebinSender</id>
+  <name>Pastebin Sender</name>
+  <vendor email="karsen146@gmail.com" url="https://artttdesign.ru/">KArsArt</vendor>
+  <description>
+    You can use this plugin to send pieces of your code to Pastebin.com in a few clicks!
+    </description>
+  <depends>com.intellij.modules.platform</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <applicationService serviceImplementation="com.Artttdez.pastebinsender.storage.SettingState"/>
+    <applicationConfigurable groupId="tools" displayName="Pastebin Sender Settings" id="preferences.SettingConfiguration" instance="com.Artttdez.pastebinsender.storage.SettingConfiguration"/>
+  </extensions>
+  <actions>
+    <action id="pasteAction" class="pasteAction" text="Paste Action" description="Paste a selection to pastebin">
+      <keyboard-shortcut keymap="$default" first-keystroke="meta BACK_SLASH" second-keystroke="meta P"/>
+    </action>
+  </actions>
+</idea-plugin>
