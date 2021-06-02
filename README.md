@@ -33,7 +33,7 @@ Installing the plugin to IDEA
 **From Jetbrains plugin repository (soon)**
 1. Go to `IntelliJ IDEA ⟶ Preferences ⟶ Plugins`
 2. Select `Browse Repositories` button at the bottom.
-3. Search for `Pastebin Sender` using the search box. Then you can install the plugin using the `Install` button.
+3. Search for `Pastebin Sender` using the search. Then you can install the plugin using the `Install` button.
 4. Restart IDEA.
 
 **From a local build**
