@@ -25,7 +25,9 @@ Usage
 5. If something gone wrong, a popup with following message will be shown up:
    <br>
    <img src="https://sun9-1.userapi.com/impg/uKiF0EyUwTHoAcRuz-apEonS3lYsh4LCJPT6Ww/px9l1v096Wc.jpg?size=520x416&quality=96&sign=f46886cb94567f2a1bd47a91360f8cab&type=album" width="200px">
-      
+   <br>
+   <img src="https://sun9-71.userapi.com/impg/iBfnwFxpKHOzGXYjXP6O08bmdYjhg3nvNIh2zA/XT_t_dKpmWk.jpg?size=524x416&quality=96&sign=540937328dfd868bf2d97e946819b263&type=album" width="200px">
+
 Installing the plugin to IDEA
 -----------------------------------
 

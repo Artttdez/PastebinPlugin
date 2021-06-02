@@ -12294,3 +12294,5 @@ Example: args.urlSchemes = ["your-protocol"] will handle following links: your-p
 2021-06-02 14:19:00,544 [1527619]   INFO - tFileBasedIndexStartupActivity - Has changed files: false; project=Project(name=untitled2, containerState=COMPONENT_CREATED, componentStore=/Users/artemijkarpov/IdeaProjects/untitled2) 
 2021-06-02 14:19:05,994 [1533069]   INFO - rationStore.ComponentStoreImpl - Saving appFileTypeManager took 119 ms, GraziConfig took 12 ms 
 2021-06-02 14:19:06,070 [1533145]   INFO - rationStore.ComponentStoreImpl - Saving Project(name=untitled2, containerState=COMPONENT_CREATED, componentStore=/Users/artemijkarpov/IdeaProjects/untitled2)RunManager took 42 ms 
+2021-06-02 14:22:53,465 [1760540]   INFO - rationStore.ComponentStoreImpl - Saving appFileTypeManager took 12 ms 
+2021-06-02 14:22:53,516 [1760591]   INFO - rationStore.ComponentStoreImpl - Saving Project(name=untitled2, containerState=COMPONENT_CREATED, componentStore=/Users/artemijkarpov/IdeaProjects/untitled2)RunManager took 11 ms 
