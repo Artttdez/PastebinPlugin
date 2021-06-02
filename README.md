@@ -20,7 +20,7 @@ Usage
 2. Insert your DevKey token from Pastebin.com
     <br>
     <img src="https://sun9-36.userapi.com/impg/2_erjs_S3dibTsiMFM0GGM-L1mh2L6q410gyJw/guvOnPDo-78.jpg?size=1960x1462&quality=96&sign=9bd131c58af70292875d3b174fa00e21&type=album" width="400px">
-3. Hotkeys - `Ctrl+\ Ctrl+P`
+3. Hotkeys - `Ctrl+ \ Ctrl+P`
 4. If the DevKey token is correct, a new folder with your Pastebin.com paste will be opened soon in your default browser. 
 5. If something gone wrong, a popup with following message will be shown up:
     * **Select some text/code**
