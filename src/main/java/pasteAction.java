@@ -23,7 +23,7 @@ public class pasteAction extends AnAction {
         } else {
             Response result = pastebin.post(PasteImpl.createSimplePaste(pasteCode));
             if (result.isError()) {
-                Messages.showMessageDialog("Add correct devKey", "Pastebin", Messages.getInformationIcon());
+                Messages.showMessageDialog("Add correct DevKey", "Pastebin", Messages.getInformationIcon());
             } else {
                 BrowserUtil.browse(result.get());
             }

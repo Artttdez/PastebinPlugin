@@ -20,13 +20,12 @@ Usage
 2. Insert your DevKey token from Pastebin.com
    <br>
    <img src="https://sun9-36.userapi.com/impg/2_erjs_S3dibTsiMFM0GGM-L1mh2L6q410gyJw/guvOnPDo-78.jpg?size=1960x1462&quality=96&sign=9bd131c58af70292875d3b174fa00e21&type=album" width="400px">
-3. Hotkeys - `Ctrl+ \ Ctrl+P`
+3. Hotkeys - `Ctrl+\ Ctrl+P`
 4. If the DevKey token is correct, a new folder with your Pastebin.com paste will be opened soon in your default browser. 
 5. If something gone wrong, a popup with following message will be shown up:
    <br>
-   <img src="https://sun9-1.userapi.com/impg/uKiF0EyUwTHoAcRuz-apEonS3lYsh4LCJPT6Ww/px9l1v096Wc.jpg?size=520x416&quality=96&sign=f46886cb94567f2a1bd47a91360f8cab&type=album" width="200px">
-   <br>
-   <img src="https://sun9-71.userapi.com/impg/iBfnwFxpKHOzGXYjXP6O08bmdYjhg3nvNIh2zA/XT_t_dKpmWk.jpg?size=524x416&quality=96&sign=540937328dfd868bf2d97e946819b263&type=album" width="200px">
+   <img src="https://sun9-65.userapi.com/impg/5pEmU0x2ApbvMHynG6El6FgM8xzX8GgDBBwAAA/Oxh7p9HU4pM.jpg?size=524x418&quality=96&sign=05aee51c1a082890a505cd8211f9cd36&type=album" width="200px">
+   <img src="https://sun9-30.userapi.com/impg/CxY_MD3CByCeRwApVLKWOYFRJPLsjxjOQellkQ/G2NXOWYkxVU.jpg?size=524x416&quality=96&sign=002ec0b28930e5179b5f0696afe2d09a&type=album" width="200px">
 
 Installing the plugin to IDEA
 -----------------------------------
