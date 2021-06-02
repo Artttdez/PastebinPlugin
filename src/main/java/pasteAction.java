@@ -19,7 +19,7 @@ public class pasteAction extends AnAction {
         String devKey = SettingState.getInstance().getDevKey();
         Pastebin pastebin = new PastebinImpl(devKey);
         if (pasteCode == null) {
-            Messages.showMessageDialog("Selected is empty", "Pastebin", Messages.getInformationIcon());
+            Messages.showMessageDialog("Select some text/code", "Pastebin", Messages.getInformationIcon());
         } else {
             Response result = pastebin.post(PasteImpl.createSimplePaste(pasteCode));
             if (result.isError()) {
