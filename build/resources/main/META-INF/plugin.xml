@@ -17,7 +17,7 @@
   </extensions>
   <actions>
     <action id="pasteAction" class="pasteAction" text="Paste Action" description="Paste a selection to pastebin">
-      <keyboard-shortcut keymap="$default" first-keystroke="meta BACK_SLASH" second-keystroke="meta P"/>
+      <keyboard-shortcut keymap="$default" first-keystroke="ctrl BACK_SLASH" second-keystroke="ctrl P"/>
     </action>
   </actions>
 </idea-plugin>
