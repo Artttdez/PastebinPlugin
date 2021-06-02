@@ -4,8 +4,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state>
+              <caret selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -71,17 +71,17 @@
   </component>
   <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
   <component name="WindowStateProjectService">
-    <state x="229" y="65" width="900" height="728" key="SettingsEditor" timestamp="1622628365470">
+    <state x="229" y="65" width="900" height="728" key="SettingsEditor" timestamp="1622631992925">
       <screen x="0" y="25" width="1440" height="807" />
     </state>
-    <state x="229" y="65" width="900" height="728" key="SettingsEditor/0.25.1440.807@0.25.1440.807" timestamp="1622628365470" />
+    <state x="229" y="65" width="900" height="728" key="SettingsEditor/0.25.1440.807@0.25.1440.807" timestamp="1622631992925" />
     <state x="229" y="65" width="982" height="728" key="SettingsEditor/0.25.1440.809@0.25.1440.809" timestamp="1622560376275" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state>
+          <caret selection-end-line="5" />
         </state>
       </provider>
     </entry>
