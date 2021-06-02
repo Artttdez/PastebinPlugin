@@ -19,7 +19,7 @@ Building from the source
 Usage
 -----------------------------------
 1. Go to `IntelliJ IDEA ⟶ Preferences ⟶ Tools ⟶ Pastebin Sender Settings` 
-2. Insert your DevKey token from Pastebin.com
+2. Insert your DevKey token from Pastebin.com (to get your DevKey, you should sign up in Pastebin.com and get your DevKey from the link https://pastebin.com/doc_api)
    <br>
    <img src="https://sun9-36.userapi.com/impg/2_erjs_S3dibTsiMFM0GGM-L1mh2L6q410gyJw/guvOnPDo-78.jpg?size=1960x1462&quality=96&sign=9bd131c58af70292875d3b174fa00e21&type=album" width="400px">
 3. Hotkeys - `Ctrl+\ Ctrl+P`
