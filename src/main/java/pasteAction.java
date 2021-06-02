@@ -2,6 +2,7 @@ import com.Artttdez.PastebinApi.paste.PasteImpl;
 import com.Artttdez.PastebinApi.pastebin.Pastebin;
 import com.Artttdez.PastebinApi.pastebin.PastebinImpl;
 import com.Artttdez.PastebinApi.response.Response;
+import com.Artttdez.pastebinsender.storage.SettingState;
 import com.intellij.ide.BrowserUtil;
 import com.intellij.openapi.actionSystem.AnAction;
 import com.intellij.openapi.actionSystem.AnActionEvent;
@@ -15,7 +16,7 @@ public class pasteAction extends AnAction {
     public void actionPerformed(@NotNull AnActionEvent e) {
         Editor editor = e.getData(PlatformDataKeys.EDITOR);
         String pasteCode = editor.getSelectionModel().getSelectedText();
-        String devKey = "v2gvvuSlNTV5ewPUwMICqT27VcN5JFgp";
+        String devKey = SettingState.getInstance().getDevKey();
         Pastebin pastebin = new PastebinImpl(devKey);
         if (pasteCode == null) {
             Messages.showMessageDialog("Selected is empty", "Pastebin", Messages.getInformationIcon());

@@ -1,5 +1,5 @@
-com/Artttdez/PastebinApi/response/SuccessResponse.java
- com.Artttdez.PastebinApi.response.SuccessResponse
+com/Artttdez/PastebinApi/response/Response.java
+ com.Artttdez.PastebinApi.response.Response
 com/Artttdez/PastebinApi/pastebin/Pastebin.java
  com.Artttdez.PastebinApi.pastebin.Pastebin
 com/Artttdez/PastebinApi/paste/PasteImpl.java
@@ -12,8 +12,8 @@ com/Artttdez/PastebinApi/paste/Paste.java
  com.Artttdez.PastebinApi.paste.Paste
 com/Artttdez/pastebinsender/storage/SettingState.java
  com.Artttdez.pastebinsender.storage.SettingState
-com/Artttdez/PastebinApi/response/Response.java
- com.Artttdez.PastebinApi.response.Response
+com/Artttdez/pastebinsender/gui/SettingsGui.java
+ com.Artttdez.pastebinsender.gui.SettingsGui
 com/Artttdez/PastebinApi/pastebin/ApiParameters.java
  com.Artttdez.PastebinApi.pastebin.ApiParameters
  com.Artttdez.PastebinApi.pastebin.ApiParameters$1
@@ -26,17 +26,17 @@ com/Artttdez/PastebinApi/paste/ExpireDate.java
  com.Artttdez.PastebinApi.paste.ExpireDate
 com/Artttdez/PastebinApi/connection/PostParameters.java
  com.Artttdez.PastebinApi.connection.PostParameters
-com/Artttdez/PastebinApi/pastebin/PastebinImpl.java
- com.Artttdez.PastebinApi.pastebin.PastebinImpl
+com/Artttdez/pastebinsender/storage/SettingConfiguration.java
+ com.Artttdez.pastebinsender.storage.SettingConfiguration
 com/Artttdez/PastebinApi/paste/PasteFormat.java
  com.Artttdez.PastebinApi.paste.PasteFormat
 com/Artttdez/PastebinApi/connection/HttpConnectionPastebin.java
  com.Artttdez.PastebinApi.connection.HttpConnectionPastebin
 com/Artttdez/PastebinApi/response/FailedResponse.java
  com.Artttdez.PastebinApi.response.FailedResponse
+com/Artttdez/PastebinApi/response/SuccessResponse.java
+ com.Artttdez.PastebinApi.response.SuccessResponse
+com/Artttdez/PastebinApi/pastebin/PastebinImpl.java
+ com.Artttdez.PastebinApi.pastebin.PastebinImpl
 pasteAction.java
  pasteAction
-com/Artttdez/pastebinsender/gui/SettingsGui.java
- com.Artttdez.pastebinsender.gui.SettingsGui
-com/Artttdez/pastebinsender/storage/SettingConfiguration.java
- com.Artttdez.pastebinsender.storage.SettingConfiguration

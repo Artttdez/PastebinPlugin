@@ -4,8 +4,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            <state relative-caret-position="21">
+              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -28,6 +28,7 @@
     <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -44,13 +45,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ToolWindowManager">
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27483684" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2857143" />
       <window_info id="Structure" order="1" side_tool="true" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Commit" order="3" />
@@ -71,16 +71,17 @@
   </component>
   <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
   <component name="WindowStateProjectService">
-    <state x="229" y="65" width="982" height="728" key="SettingsEditor" timestamp="1622560376275">
-      <screen x="0" y="25" width="1440" height="809" />
+    <state x="229" y="65" width="900" height="728" key="SettingsEditor" timestamp="1622628365470">
+      <screen x="0" y="25" width="1440" height="807" />
     </state>
+    <state x="229" y="65" width="900" height="728" key="SettingsEditor/0.25.1440.807@0.25.1440.807" timestamp="1622628365470" />
     <state x="229" y="65" width="982" height="728" key="SettingsEditor/0.25.1440.809@0.25.1440.809" timestamp="1622560376275" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        <state relative-caret-position="21">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="5" />
         </state>
       </provider>
     </entry>
