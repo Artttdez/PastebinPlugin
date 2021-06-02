@@ -1,17 +1,21 @@
 # PastebinPlugin
-##Description
+Description
+-----------------------------------
 You can use this plugin to share parts of your code by Pastebin.com with a few clicks.
 
-##Features
+Features
+-----------------------------------
 * Plugin gets selected part of code/text and creates Pastebin.com paste with it.
 
 
-##Building from the source
+Building from the source
+-----------------------------------
 1. Clone the repository using the following command. <br>
    `git clone --recursive https://github.com/Artttdez/PastebinPlugin`
 2. Navigate into the cloned repository and run `./gradlew buildPlugin`. In the `build/distributions` directory, `.zip` file with plugin will be created.
 
-##Usage
+Usage
+-----------------------------------
 1. Go to `IntelliJ IDEA ⟶ Preferences ⟶ Tools ⟶ Pastebin Sender Settings` 
 2. Insert your DevKey token from Pastebin.com
     <br>
@@ -19,13 +23,16 @@ You can use this plugin to share parts of your code by Pastebin.com with a few c
 3. Hotkeys - `Ctrl+\ Ctrl+P`
 4. If your DevKey token is correct, a new folder with your Pastebin.com paste will be opened soon in your default browser. 
 
-##Installing the plugin to IDEA
-###From Jetbrains plugin repository (soon)
+Installing the plugin to IDEA
+-----------------------------------
+
+**From Jetbrains plugin repository (soon)**
 1. Go to `IntelliJ IDEA ⟶ Preferences ⟶ Plugins`
 2. Select `Browse Repositories` button at the bottom.
 3. Search for `Pastebin Sender` using the search box. Then you can install the plugin using the `Install` button.
 4. Restart IDEA.
-###From a local build
+
+**From a local build**
 1. Go to `IntelliJ IDEA ⟶ Preferences ⟶ Plugins`
 2. Click `Install plugin from disk` button and select the deployed plugin zip file. Please make sure to install the Zip file, not the extracted Jar files.
 3. Restart IDEA.
